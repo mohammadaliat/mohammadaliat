@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Mohammad Ali
 
-I'm a passionate freelance web designer and a higher secondary (+1) student, currently pursuing a BS degree in Data Science & Artificial Intelligence. I love crafting beautiful, responsive websites and building practical programming solutions. I’m always exploring new technologies and contributing to open-source projects—Git is my daily companion!
+I'm a passionate freelance web designer and a higher secondary (+1) student. I have completed the IIT Madras School Connect Program in Data Science and AI—an introduction to the IITM BS in Data Science and Applications curriculum. I love crafting beautiful, responsive websites and building practical programming solutions. I’m always exploring new technologies and contributing to open-source projects—Git is my daily companion!
 
 ---
 
 ## 🚀 About Me
 - **Freelancer** in web design
-- **Student:** Higher Secondary (+1) & BS in DS & AI
+- **Student:** Higher Secondary (+1)
+- **Completed:** IIT Madras School Connect Program in Data Science and AI
 - **Open-source contributor** & Git enthusiast
 - **Lifelong learner:** Always exploring new tech!
 
