@@ -51,7 +51,8 @@ I'm a passionate freelance web designer and a higher secondary (+1) student, cur
 ---
 
 > “Code, create, contribute—every day is a chance to learn something new!”
-> "Change your perspective and life will change by itself"
+>
+>  "Change your perspective and life will change by itself"
 
 ---
 
