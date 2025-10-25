@@ -40,9 +40,7 @@ I'm a passionate freelance web designer and a higher secondary (+1) student, cur
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohammad_ali.at)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mohammadali.web)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohammad_ali_at)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadaliat/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/) <!-- Add username or link -->
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#) <!-- Add username or link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadaliat/)<!-- Add username or link --><!-- Add username or link -->
 
 ---
 
@@ -53,6 +51,7 @@ I'm a passionate freelance web designer and a higher secondary (+1) student, cur
 ---
 
 > “Code, create, contribute—every day is a chance to learn something new!”
+> "Change your perspective and life will change by itself"
 
 ---
 
